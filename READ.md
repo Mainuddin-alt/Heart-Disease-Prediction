@@ -69,7 +69,7 @@ Logistic Regression Performance:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Heart-Disease-Prediction.git
+git clone https://github.com/Mainuddin_alt/Heart-Disease-Prediction.git
 ```
 
 ## 2. Navigate to the Project Folder
