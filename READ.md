@@ -99,7 +99,7 @@ PASTE_YOUR_STREAMLIT_LINK_HERE
 # 💻 GitHub Repository
 
 Repository Link:
-PASTE_YOUR_GITHUB_LINK_HERE
+(https://github.com/Mainuddin-alt/Heart-Disease-Prediction/blob/main/READ.md)
 
 ---
 
