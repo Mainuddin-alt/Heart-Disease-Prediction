@@ -93,13 +93,13 @@ streamlit run App.py
 # 🌐 Live Demo
 
 Streamlit App:
-PASTE_YOUR_STREAMLIT_LINK_HERE
+https://heart-disease-prediction-gvhtv9uka8hsfgcnbfvd8s.streamlit.app/
 
 
 # 💻 GitHub Repository
 
 Repository Link:
-(https://github.com/Mainuddin-alt/Heart-Disease-Prediction/blob/main/READ.md)
+https://github.com/Mainuddin-alt/Heart-Disease-Prediction/blob/main/READ.md
 
 ---
 
